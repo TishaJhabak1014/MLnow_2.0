@@ -1,3 +1,3 @@
 # MLnow_GirlScript
 
-This is the repository for ML.now() course accessible to everyone.
+👩‍💻This repository is a code archive for `ML.now()` course codes created by [Tisha Jhabak](https://github.com/TishaJhabak1014), guided by mentor [Shivani Simpi](https://github.com/shivanishimpi).
